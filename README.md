@@ -1,8 +1,8 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Computer Vision Project 01
 
-NTUEE, Wan-Cyuan Fan B04502105 	
-
-[toc]
+[TOC]
 
 ## Design the joint bilateral filter
 
